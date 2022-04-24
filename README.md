@@ -17,17 +17,17 @@ Interviewer
     After this press ctrl & click on http://127.0.0.1:8000/
     the web-application will run on your web browser
     
-  To Run Interview App
-  > cd Video Call App NodeJS
-  then dir
-  after dir command you will see src folder were your main Application is there.
-  your last step is 
-  > cd src
-  >dir
-  your main file is *app.js*
-  To run this on web browser run 
-  > node app.js
-  ***nothing will show on your terminal after running this 
-    your have to go on your web browser and type this on your url***
+ To Run Interview App  
+  > cd Video Call App NodeJS  
+  then dir  
+  after dir command you will see src folder were your main Application is there.  
+  your last step is   
+  > cd src  
+  >dir  
+  your main file is *app.js*  
+  To run this on web browser run   
+  **> node app.js**  
+  ***nothing will show on your terminal after running this   
+    your have to go on your web browser and type this on your url***  
 
     localhost:3000
