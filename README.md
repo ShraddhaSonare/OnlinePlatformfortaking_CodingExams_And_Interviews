@@ -43,7 +43,7 @@ For development, you will need Django, Node.js and a node global package
     your last step is 
     > cd src
     >dir
-    your main file is app.js
+    your main file is *app.js*
     To run this on web browser run 
     > node app.js
     nothing will show on your terminal after running this 
